@@ -1,0 +1,14 @@
+"Email","User Domain","User Type","System Admin","Group Admin","Plan Asset Admin","Number of assets shared with user","Highest permission given on assets","Number of assets with Viewer permissions","Number of assets with Editor or Commentor permissions","Number of assets with Admin permissions","Last activity","Number of asset views (Last 90 days)","Number of asset views (Last 180 days)","Number of asset views (Last 270 days)","Number of asset views (Last 365 days)","Number of comments (Last 90 days)","Number of comments (Last 180 days)","Number of comments (Last 270 days)","Number of comments (Last 365 days)","Number of edits (Last 90 days)","Number of edits (Last 180 days)","Number of edits (Last 270 days)","Number of edits (Last 365 days)","Number of created assets (Last 90 days)","Number of created assets (Last 180 days)","Number of created assets (Last 270 days)","Number of created assets (Last 365 days)"
+"wilson_patton@mcafee.com","External","Guest","","","",1,"Editor - Can Share",0,1,0,"2026-03-11",0,0,0,0,0,0,0,0,5,5,5,5,0,0,0,0
+"sounitha_yengannagari@mcafee.com","External","Guest","","","",2,"Editor - Can Share",0,2,0,"2022-02-23",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"admin@shnqatest3.com","External","Guest","","","",30,"Editor - Can Share",0,29,0,"2025-03-07",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"smitaqaas2@gmail.com","External","Guest","","","",18,"Editor - Can Share",0,17,0,"2025-05-22",0,0,0,7,0,0,0,6,0,0,0,11,0,0,0,0
+"shibenchouhan@live.com","External","Guest","","","",1,"Editor - Can Share",0,1,0,"2021-05-14",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"shndlp01@shndlp01.com","Internal","Licensed User","Yes","Yes","",3899,"Owner",0,6,3893,"2026-05-16",198,257,287,532,9,15,21,22,260,331,377,518,79,85,88,110
+"shndlp01+1@shndlp01.com","Internal","Licensed User","","","",9847,"Owner",0,27,9820,"2026-05-15",216,406,1290,8563,2,2,32,108,346,624,1915,4553,127,234,603,1312
+"manoj_inukolunu@mcafee.com","External","Licensed User","Yes","Yes","",6,"Owner",0,2,4,"2024-02-20",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"gopi_boyinapalli@mcafee.com","External","Guest","","","",1,"Editor - Can Share",0,1,0,"2020-09-10",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"shibenchouhan@gmail.com","External","Guest","","","",1,"Editor - Can Share",0,1,0,"2021-01-19",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"shiben.chouhan@skyhighsecurity.com","External","Guest","","","",1,"Editor - Can Share",0,1,0,"2024-01-09",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"shiben_chouhan@mcafee.com","External","Guest","","","",1,"Editor - Can Share",0,1,0,"2021-04-23",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"shiben.shn@gmail.com","External","Guest","","","",137,"Editor - Can Share",0,137,0,"2023-11-21",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
